@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/allerta</item>
+        <item>@font/asul</item>
+        <item>@font/average</item>
+        <item>@font/carme</item>
+        <item>@font/carter_one</item>
+        <item>@font/fresca</item>
+        <item>@font/jockey_one</item>
+        <item>@font/lalezar</item>
+    </array>
+</resources>
